@@ -3,6 +3,21 @@
 ## Overview
 This project aims to predict house prices using multiple machine learning regression models. The dataset contains various features such as area, number of bedrooms, bathrooms, and other property-related attributes. The objective is to build models that can accurately estimate house prices and compare their performance.
 
+## Dataset
+The dataset used in this project is sourced from Kaggle:
+
+Housing Prices Dataset  
+https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
+
+It includes features such as:
+- Area
+- Bedrooms
+- Bathrooms
+- Stories
+- Parking
+- Furnishing status
+- Additional categorical features
+
 
 ## Features
 - Data preprocessing using one-hot encoding for categorical variables  
